@@ -1,0 +1,1 @@
+gobuster is fun fuzz if too
